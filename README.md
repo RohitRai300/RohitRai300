@@ -1,4 +1,11 @@
 ### Hi there 👋
+- 🔭 I’m currently working as a Software Development Engineer at [BlueYonder](https://www.linkedin.com/company/blueyonder/mycompany/)
+- 🌱 I’m interested in software development, algorithms and data structures.
+- 👯 I’m looking to collaborate on Creative Software Projects.
+- 💬 Ask me about anything in general with software development
+- 😄 Fun fact: Love to spend time with my furry fiends
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rohitrai300/)
+
 
 <!--
 **RohitRai300/RohitRai300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
